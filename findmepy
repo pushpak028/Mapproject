@@ -1,0 +1,15 @@
+import socket
+import requests
+
+def get_ip():
+    ip = "2401:4900:1cc8:6a20:141b:6ad7:e34a:460"
+    return ip
+    
+
+
+def findme():
+    ip = get_ip()
+    response = requests.get(f"https://api.ip2location.io/?key=F7A7BD35D8E7AFAB52FF2113DA8B6A4A&ip={ip}&format=json")  
+    print(response.text)
+
+findme()

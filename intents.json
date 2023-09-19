@@ -1,0 +1,818 @@
+[
+    {
+      "name": "C1. Flower Bazaar Police station,chennai tamil nadu",
+      "latitude": 13.0883724,
+      "longitude": 80.2817022,
+      "phone": "044-23452464/465"
+    },
+    {
+      "name": "C2. Elephant Gate Police station,chennai tamil nadu",
+      "latitude": 13.0926736,
+      "longitude": 80.275157,
+      "phone": "044-23452467/468"
+    },
+    {
+      "name": "C3. Seven Wells Police station,chennai tamil nadu",
+      "latitude": 13.0988712,
+      "longitude": 80.2816759,
+      "phone": "044-23452471/472"
+    },
+    {
+      "name": "C4 Govt.Hospital Police station,chennai tamil nadu",
+      "latitude": 13.068907,
+      "longitude": 80.2671759,
+      "phone": "044-23452473"
+    },
+    {
+      "name": "B2 Esplanade Police station,chennai tamil nadu",
+      "latitude": 13.0867502,
+      "longitude": 80.2850751,
+      "phone": "044-23452458/459"
+    },
+    {
+      "name": "B4 High Court Police station,chennai tamil nadu",
+      "latitude": 13.0872131,
+      "longitude": 80.2850952,
+      "phone": "044-23452462"
+    },
+    {
+      "name": "B5. Harbour Police station,chennai tamil nadu",
+      "latitude": 13.0962328,
+      "longitude": 80.2864936,
+      "phone": "044-23452500/501"
+    },
+    {
+      "name": "B1. North Beach Police station,chennai tamil nadu",
+      "latitude": 13.089882,
+      "longitude": 80.2904675,
+      "phone": "044-23452457/457"
+    },
+    {
+      "name": "B3. Fort Police station,chennai tamil nadu",
+      "latitude": 13.0826802,
+      "longitude": 80.2707184,
+      "phone": "044-23452460/461"
+    },
+    {
+      "name": "N3. Muthialpet Police station,chennai tamil nadu",
+      "latitude": 13.0998285,
+      "longitude": 80.2868861,
+      "phone": "044-23452514/515"
+    },
+    {
+      "name": "C5. Kothavalchavadi Police station,chennai tamil nadu",
+      "latitude": 13.0933489,
+      "longitude": 80.2843962,
+      "phone": "044-23452474/474"
+    },
+    {
+      "name": "Port Marine Police station,chennai tamil nadu",
+      "latitude": 13.0826802,
+      "longitude": 80.2707184,
+      "phone": "044-23452502"
+    },
+    {
+      "name": "H1. Washermenpet Police station,chennai tamil nadu",
+      "latitude": 13.1086282,
+      "longitude": 80.280616,
+      "phone": "044-23452481/481"
+    },
+    {
+      "name": "H3. Tondiarpet Police station,chennai tamil nadu",
+      "latitude": 13.1233037,
+      "longitude": 80.2873248,
+      "phone": "044-23452485/486"
+    },
+    {
+      "name": "H4. Korukkupet Police station,chennai tamil nadu",
+      "latitude": 13.1176027,
+      "longitude": 80.2799883,
+      "phone": "044-23452488/489"
+    },
+    {
+      "name": "H6. R.K. Nagar Police station,chennai tamil nadu",
+      "latitude": 13.1244264,
+      "longitude": 80.2771183,
+      "phone": "044-23452493/494"
+    },
+    {
+      "name": "H2. Stanley Hospital Police station,chennai tamil nadu",
+      "latitude": 13.1054579,
+      "longitude": 80.2825334,
+      "phone": "044-25281347"
+    },
+    {
+      "name": "H8. Thiruvottiyur Police station,chennai tamil nadu",
+      "latitude": 13.1540069,
+      "longitude": 80.3008227,
+      "phone": "044-23452496/497"
+    },
+    {
+      "name": "H7. Peripheral Hospital Police station,chennai tamil nadu",
+      "latitude": 13.095736,
+      "longitude": 80.2191814,
+      "phone": "044-23452495"
+    },
+    {
+      "name": "H5. New Washermenpet Police station,chennai tamil nadu",
+      "latitude": 13.1394516,
+      "longitude": 80.2947123,
+      "phone": "044-23452490/491"
+    },
+    {
+      "name": "N1. Royapuram Police station,chennai tamil nadu",
+      "latitude": 13.1113282,
+      "longitude": 80.2936028,
+      "phone": "044-23452504/505"
+    },
+    {
+      "name": "N2. Kasimedu Police station,chennai tamil nadu",
+      "latitude": 13.120907,
+      "longitude": 80.29358,
+      "phone": "044-23452511/510"
+    },
+    {
+      "name": "N4. Fishing Harbour Police station,chennai tamil nadu",
+      "latitude": 13.1338906,
+      "longitude": 80.2988164,
+      "phone": "044-23452517/518"
+    },
+    {
+      "name": "M1. Madhavaram Police station,chennai tamil nadu",
+      "latitude": 13.131433431878618, 
+      "longitude": 80.2373887071593,
+      "phone": "044-23452783"
+    },
+    {
+      "name": "M2. Milk Colony Police station,chennai tamil nadu",
+      "latitude": 13.1460465,
+      "longitude": 80.2396096,
+      "phone": "044-2555085"
+    },
+    {
+      "name": "M3. Puzhal Police station,chennai tamil nadu",
+      "latitude": 13.1601194,
+      "longitude": 80.2027944,
+      "phone": "044-26590989"
+    },
+    {
+      "name": "M4. Redhills Police station,chennai tamil nadu",
+      "latitude": 13.1916943,
+      "longitude": 80.1851867,
+      "phone": "044-26418296"
+    },
+    {
+      "name": "M5. Ennore Police station,chennai tamil nadu",
+      "latitude": 13.2089079,
+      "longitude": 80.3163648,
+      "phone": "044-25750237"
+    },
+    {
+      "name": "M6. Manali Police station,chennai tamil nadu",
+      "latitude": 13.1636495,
+      "longitude": 80.2636135,
+      "phone": "044-23452788"
+    },
+    {
+      "name": "M7. Manali New Town Police station,chennai tamil nadu",
+      "latitude": 13.2067223,
+      "longitude": 80.2760683,
+      "phone": "044-25931299"
+    },
+    {
+      "name": "M8. Sathangadu Police station,chennai tamil nadu",
+      "latitude": 13.1750496,
+      "longitude": 80.2854452,
+      "phone": "044-23452790"
+    },
+    {
+      "name": "P1. Pulianthope Police station,chennai tamil nadu",
+      "latitude": 13.0999823,
+      "longitude": 80.2599392,
+      "phone": "044-23452520/521"
+    },
+    {
+      "name": "P2. Otteri Police station,chennai tamil nadu",
+      "latitude": 13.1003396,
+      "longitude": 80.2515167,
+      "phone": "044-23452524/525"
+    },
+    {
+      "name": "P4. Basin Bridge Police station,chennai tamil nadu",
+      "latitude": 13.0952415,
+      "longitude": 80.2662223,
+      "phone": "044-26670948"
+    },
+    {
+      "name": "P5. MKB Nagar Police station,chennai tamil nadu",
+      "latitude": 13.1231016,
+      "longitude": 80.2613922,
+      "phone": "044-23452531/532"
+    },
+    {
+      "name": "P6. Kodungaiyur Police station,chennai tamil nadu",
+      "latitude": 13.1316114,
+      "longitude": 80.2570068,
+      "phone": "044-25546241"
+    },
+    {
+      "name": "P3. Vyasarpadi Police station,chennai tamil nadu",
+      "latitude": 13.1114447,
+      "longitude": 80.2654901,
+      "phone": "044-23452527/526"
+    },
+    {
+      "name": "K1. Sembium Police station,chennai tamil nadu",
+      "latitude": 13.108245,
+      "longitude": 80.2440929,
+      "phone": "044-23452710/711"
+    },
+    {
+      "name": "K5. Peravallur Police station,chennai tamil nadu",
+      "latitude": 13.1113554,
+      "longitude": 80.2262112,
+      "phone": "044-23452727/728"
+    },
+    {
+      "name": "K9. Thiru .Vi.Ka. Nagar Police station,chennai tamil nadu",
+      "latitude": 13.12257771730253, 
+      "longitude": 80.23618593899788,
+      "phone": "044-23452736/737"
+    },
+    {
+      "name": "K3. Aminjikarai Police station,chennai tamil nadu",
+      "latitude": 13.0812048,
+      "longitude": 80.2179792,
+      "phone": "044-23452716/717"
+    },
+    {
+      "name": "K4. Anna Nagar Police station,chennai tamil nadu",
+      "latitude": 13.0926344,
+      "longitude": 80.217931,
+      "phone": "044-23452719/720"
+    },
+    {
+      "name": "K8. Arumbakkam Police station,chennai tamil nadu",
+      "latitude": 13.0687214,
+      "longitude": 80.213805,
+      "phone": "044-23452733"
+    },
+    {
+      "name": "V3. J.J. Nagar Police station,chennai tamil nadu",
+      "latitude": 13.0765379,
+      "longitude": 80.1752674,
+      "phone": "044-23452748/749"
+    },
+    {
+      "name": "V5. Thirumangalam Police station,chennai tamil nadu",
+      "latitude": 13.0932503,
+      "longitude": 80.1976178,
+      "phone": "044-23452753/754"
+    },
+    {
+      "name": "V7. Nolambur Police station,chennai tamil nadu",
+      "latitude": 13.0765424,
+      "longitude": 80.1752655,
+      "phone": 9940596447
+    },
+    {
+      "name": "K10. Koyambedu Police station,chennai tamil nadu",
+      "latitude": 13.0696488,
+      "longitude": 80.200326,
+      "phone": "044-23452739"
+    },
+    {
+      "name": "T4. Maduravoyal Police station,chennai tamil nadu",
+      "latitude": 13.0672188,
+      "longitude": 80.1766654,
+      "phone": "044-23452766"
+    },
+    {
+      "name": "CMBT Police station,chennai tamil nadu",
+      "latitude": 13.0674395,
+      "longitude": 80.2054888,
+      "phone": 9677099958
+    },
+    {
+      "name": "V1. Villivakkam Police station,chennai tamil nadu",
+      "latitude": 13.1035679,
+      "longitude": 80.20631,
+      "phone": "044-23452744/745"
+    },
+    {
+      "name": "V4. Rajamangalam Police station,chennai tamil nadu",
+      "latitude": 13.1221807,
+      "longitude": 80.2053371,
+      "phone": "044-23452750/751"
+    },
+    {
+      "name": "V6. Kolathur Police station,chennai tamil nadu",
+      "latitude": 13.1101837,
+      "longitude": 80.2137063,
+      "phone": "044-23452758"
+    },
+    {
+      "name": "T1. Ambattur Police station,chennai tamil nadu",
+      "latitude": 13.1072865,
+      "longitude": 80.1525393,
+      "phone": "044-23452797"
+    },
+    {
+      "name": "T2. Ambattur Estate Police station,chennai tamil nadu",
+      "latitude": 13.0954687,
+      "longitude": 80.1638406,
+      "phone": "044-23452798"
+    },
+    {
+      "name": "T3. Korattur Police station,chennai tamil nadu",
+      "latitude": 13.1072152,
+      "longitude": 80.1867452,
+      "phone": "044-23452799"
+    },
+    {
+      "name": "T6. Avadi Police station,chennai tamil nadu",
+      "latitude": 13.1172786,
+      "longitude": 80.1027371,
+      "phone": "044-26554750"
+    },
+    {
+      "name": "T7. Tank Factory Police station,chennai tamil nadu",
+      "latitude": 13.1581305,
+      "longitude": 80.1035899,
+      "phone": "044-23452771"
+    },
+    {
+      "name": "T10. Thirumullaivoyal Police station,chennai tamil nadu",
+      "latitude": 13.1244534,
+      "longitude": 80.1168068,
+      "phone": "044 - 23452772"
+    },
+    {
+      "name": "T11. Thirunindravur Police station,chennai tamil nadu",
+      "latitude": 13.1313291,
+      "longitude": 80.0363218,
+      "phone": "044 - 26390293"
+    },
+    {
+      "name": "T8. Muthapudupet Police station,chennai tamil nadu",
+      "latitude": 13.146665,
+      "longitude": 80.0416952,
+      "phone": "044 -26841795"
+    },
+    {
+      "name": "T9. Pattabiram Police station,chennai tamil nadu",
+      "latitude": 13.1221192,
+      "longitude": 80.0626862,
+      "phone": "044 - 26851632"
+    },
+    {
+      "name": "T12. Poonamallee Police station,chennai tamil nadu",
+      "latitude": 13.0502659,
+      "longitude": 80.0909275,
+      "phone": "044-26272082"
+    },
+    {
+      "name": "T16. Nasaratpet Police station,chennai tamil nadu",
+      "latitude": 13.0826802,
+      "longitude": 80.2707184,
+      "phone": "044-26271414"
+    },
+    {
+      "name": "T5. Thiruverkadu Police station,chennai tamil nadu",
+      "latitude": 13.0739552,
+      "longitude": 80.1253609,
+      "phone": "044-26800091"
+    },
+    {
+      "name": "T15. SRMC Police station,chennai tamil nadu",
+      "latitude": 13.0414393,
+      "longitude": 80.1331805,
+      "phone": "044-23452767"
+    },
+    {
+      "name": "T14. Mangadu Police station,chennai tamil nadu",
+      "latitude": 13.0353183,
+      "longitude": 80.1145844,
+      "phone": "044-26791102"
+    },
+    {
+      "name": "T13. Kunrathur Police station,chennai tamil nadu",
+      "latitude": 12.9973982,
+      "longitude": 80.0918893,
+      "phone": "044-24780039"
+    },
+    {
+      "name": "K6. TP Chathiram Police station,chennai tamil nadu",
+      "latitude": 13.082818,
+      "longitude": 80.2307301,
+      "phone": "044-23452729/730"
+    },
+    {
+      "name": "G3. Kilpauk Police station,chennai tamil nadu",
+      "latitude": 13.0778618,
+      "longitude": 80.2474004,
+      "phone": "044-23452699/700"
+    },
+    {
+      "name": "G7. Chetpet Police station,chennai tamil nadu",
+      "latitude": 13.0707962,
+      "longitude": 80.2420135,
+      "phone": "044-23452686"
+    },
+    {
+      "name": "G6. KMC Hospital Police station,chennai tamil nadu",
+      "latitude": 13.0769617,
+      "longitude": 80.2425186,
+      "phone": "044-23452709"
+    },
+    {
+      "name": "G1. Vepery Police station,chennai tamil nadu",
+      "latitude": 13.0861237,
+      "longitude": 80.2625574,
+      "phone": "044-23452690/691"
+    },
+    {
+      "name": "G2. Periamet Police station,chennai tamil nadu",
+      "latitude": 13.0836968,
+      "longitude": 80.270713,
+      "phone": "044-23452696/6 97"
+    },
+    {
+      "name": "K2. Ayanavaram Police station,chennai tamil nadu",
+      "latitude": 13.0989891,
+      "longitude": 80.2322394,
+      "phone": "044-23452714/715"
+    },
+    {
+      "name": "K7. ICF Police station,chennai tamil nadu",
+      "latitude": 13.0987535,
+      "longitude": 80.2157065,
+      "phone": "044-23452731/732"
+    },
+    {
+      "name": "G4. Mental Hospital Police station,chennai tamil nadu",
+      "latitude": 13.0828684,
+      "longitude": 80.2417739,
+      "phone": ""
+    },
+    {
+      "name": "G5. Secretariat Colony Police station,chennai tamil nadu",
+      "latitude": 13.0913595,
+      "longitude": 80.2452728,
+      "phone": "044-23452704/706"
+    },
+    {
+      "name": "D1.Triplicane Police station,chennai tamil nadu",
+      "latitude": 13.0671575,
+      "longitude": 80.2736037,
+      "phone": "044-23452655/656"
+    },
+    {
+      "name": "D8. K.G. Hospital Police station,chennai tamil nadu",
+      "latitude": 13.0826802,
+      "longitude": 80.2707184,
+      "phone": "044-23452672"
+    },
+    {
+      "name": "D2. Annasalai Police station,chennai tamil nadu",
+      "latitude": 13.0429251,
+      "longitude": 80.2475891,
+      "phone": "044-23452661/662"
+    },
+    {
+      "name": "D4. Zam Bazaar Police station,chennai tamil nadu",
+      "latitude": 13.0590676,
+      "longitude": 80.270551,
+      "phone": "044-23452665/666"
+    },
+    {
+      "name": "D6. Anna Square Police station,chennai tamil nadu",
+      "latitude": 13.0653673,
+      "longitude": 80.2843427,
+      "phone": "044-23452667/668"
+    },
+    {
+      "name": "F1. Chintadaripet Police station,chennai tamil nadu",
+      "latitude": 13.0748282,
+      "longitude": 80.2723757,
+      "phone": "044-23452673/674"
+    },
+    {
+      "name": "F2. Egmore Police station,chennai tamil nadu",
+      "latitude": 13.074981,
+      "longitude": 80.2567665,
+      "phone": "044-23452677/678"
+    },
+    {
+      "name": "F7. Maternity Hospital Police station,chennai tamil nadu",
+      "latitude": 12.971934,
+      "longitude": 80.141212,
+      "phone": "044-23452689"
+    },
+    {
+      "name": "F3. Nungambakkam Police station,chennai tamil nadu",
+      "latitude": 13.059662,
+      "longitude": 80.2428493,
+      "phone": "044-23452680/681"
+    },
+    {
+      "name": "F4. Thousand Lights Police station,chennai tamil nadu",
+      "latitude": 13.0598567,
+      "longitude": 80.2547689,
+      "phone": "044-23452684/683"
+    },
+    {
+      "name": "R5. Choolaimedu Police station,chennai tamil nadu",
+      "latitude": 13.0496952,
+      "longitude": 80.1992196,
+      "phone": "044-23452742/743"
+    },
+    {
+      "name": "E1. Mylapore Police station,chennai tamil nadu",
+      "latitude": 13.0357746,
+      "longitude": 80.2699354,
+      "phone": "044-23452562"
+    },
+    {
+      "name": "E5. Foreshore Estate Police station,chennai tamil nadu",
+      "latitude": 13.0247308,
+      "longitude": 80.2774294,
+      "phone": "044-23452575"
+    },
+    {
+      "name": "D5. Marina Police station,chennai tamil nadu",
+      "latitude": 13.0391818,
+      "longitude": 80.2792719,
+      "phone": "044-23452558/559"
+    },
+    {
+      "name": "E4. Abiramapuram Police station,chennai tamil nadu",
+      "latitude": 13.0231823,
+      "longitude": 80.2525266,
+      "phone": "044-23452571/572"
+    },
+    {
+      "name": "J2. Kotturpuram Police station,chennai tamil nadu",
+      "latitude": 13.0173383,
+      "longitude": 80.2412147,
+      "phone": "044-23452595/596"
+    },
+    {
+      "name": "E2. Royapettah Police station,chennai tamil nadu",
+      "latitude": 13.051897,
+      "longitude": 80.263953,
+      "phone": "044-23452567/565"
+    },
+    {
+      "name": "D3. Ice House Police station,chennai tamil nadu",
+      "latitude": 13.0521549,
+      "longitude": 80.2739286,
+      "phone": "044-23452556/555"
+    },
+    {
+      "name": "E-6 Govt. Royapettah Hosp Police station,chennai tamil nadu",
+      "latitude": 13.0546987,
+      "longitude": 80.265062,
+      "phone": ""
+    },
+    {
+      "name": "S1. St.Thomas Mount Police station,chennai tamil nadu",
+      "latitude": 12.9991583,
+      "longitude": 80.2000434,
+      "phone": "044-23452763"
+    },
+    {
+      "name": "S4. Nandampakkam Police station,chennai tamil nadu",
+      "latitude": 13.0160993,
+      "longitude": 80.1894138,
+      "phone": "044-23452765"
+    },
+    {
+      "name": "S9. Palavanthangal Police station,chennai tamil nadu",
+      "latitude": 12.9843513,
+      "longitude": 80.1857399,
+      "phone": "044-22241950"
+    },
+    {
+      "name": "S2. Airport Police station,chennai tamil nadu",
+      "latitude": 12.9803468,
+      "longitude": 80.1608827,
+      "phone": "044-22564284"
+    },
+    {
+      "name": "S3. Meenambakkam Police station,chennai tamil nadu",
+      "latitude": 12.9863982,
+      "longitude": 80.1748837,
+      "phone": "044-22561261"
+    },
+    {
+      "name": "S5. Pallavaram Police station,chennai tamil nadu",
+      "latitude": 12.9717356,
+      "longitude": 80.1484656,
+      "phone": "044-22640880"
+    },
+    {
+      "name": "S6. Sankar Nagar Police station,chennai tamil nadu",
+      "latitude": 12.9682247,
+      "longitude": 80.1249287,
+      "phone": "044-22484094"
+    },
+    {
+      "name": "S11. Tambaram Police station,chennai tamil nadu",
+      "latitude": 12.9249308,
+      "longitude": 80.1000026,
+      "phone": "044-23452769"
+    },
+    {
+      "name": "S13. Chrompet Police station,chennai tamil nadu",
+      "latitude": 12.9531884,
+      "longitude": 80.1412521,
+      "phone": "044-23452770"
+    },
+    {
+      "name": "S15. Selaiyur Police station,chennai tamil nadu",
+      "latitude": 12.9227672,
+      "longitude": 80.1351312,
+      "phone": "044 - 22396003"
+    },
+    {
+      "name": "S12. Chitlapakkam Police station,chennai tamil nadu",
+      "latitude": 12.9396935,
+      "longitude": 80.1380949,
+      "phone": "044 - 22232005"
+    },
+    {
+      "name": "S14. Peerkankaranai Police station,chennai tamil nadu",
+      "latitude": 12.9055078,
+      "longitude": 80.0976706,
+      "phone": "044 - 22398018"
+    },
+    {
+      "name": "S7. Madipakkam Police station,chennai tamil nadu",
+      "latitude": 12.9560048,
+      "longitude": 80.1853197,
+      "phone": "044 - 23452774"
+    },
+    {
+      "name": "S8. Adambakkam Police station,chennai tamil nadu",
+      "latitude": 12.9895187,
+      "longitude": 80.2088253,
+      "phone": "044 - 23452777"
+    },
+    {
+      "name": "S10. Pallikaranai Police station,chennai tamil nadu",
+      "latitude": 12.9170704,
+      "longitude": 80.1949418,
+      "phone": "044 - 23452775"
+    },
+    {
+      "name": "J2. Adyar Police station,chennai tamil nadu",
+      "latitude": 12.9978136,
+      "longitude": 80.2556662,
+      "phone": "044-23452583/584"
+    },
+    {
+      "name": "J5. Sastri Nagar Police station,chennai tamil nadu",
+      "latitude": 13.0006098,
+      "longitude": 80.2659112,
+      "phone": "044-23452598/599"
+    },
+    {
+      "name": "J1. Saidapet Police station,chennai tamil nadu",
+      "latitude": 13.0223505,
+      "longitude": 80.2261188,
+      "phone": "044-23452577/578"
+    },
+    {
+      "name": "R6. Kumaran Nagar Police station,chennai tamil nadu",
+      "latitude": 13.0282473,
+      "longitude": 80.2165603,
+      "phone": "044-23452629/628"
+    },
+    {
+      "name": "J3. Guindy Police station,chennai tamil nadu",
+      "latitude": 13.0093762,
+      "longitude": 80.2106595,
+      "phone": "044-23452590/591"
+    },
+    {
+      "name": "J7. Velachery Police station,chennai tamil nadu",
+      "latitude": 12.9809605,
+      "longitude": 80.2208596,
+      "phone": "044-23452605/606"
+    },
+    {
+      "name": "J6. Thiruvanmiyur Police station,chennai tamil nadu",
+      "latitude": 12.9844943,
+      "longitude": 80.2609848,
+      "phone": "044-23452602/603"
+    },
+    {
+      "name": "J13. Taramani Police station,chennai tamil nadu",
+      "latitude": 12.994747,
+      "longitude": 80.2429914,
+      "phone": "044-22541636"
+    },
+    {
+      "name": "J9. Thoraipakkam Police station,chennai tamil nadu",
+      "latitude": 12.9439555,
+      "longitude": 80.236508,
+      "phone": "044-23452776"
+    },
+    {
+      "name": "J10. Chemmanchery Police station,chennai tamil nadu",
+      "latitude": 12.9005906,
+      "longitude": 80.2281071,
+      "phone": "044-24500707"
+    },
+    {
+      "name": "J11. Kannagi Nagar Police station,chennai tamil nadu",
+      "latitude": 12.9318925,
+      "longitude": 80.238449,
+      "phone": 9791090918
+    },
+    {
+      "name": "J8. Neelangari Police station,chennai tamil nadu",
+      "latitude": 12.9476287,
+      "longitude": 80.2539976,
+      "phone": "044-24491196"
+    },
+    {
+      "name": "J12. Kannathur Police station,chennai tamil nadu",
+      "latitude": 12.8662835,
+      "longitude": 80.2447433,
+      "phone": "044-27472182"
+    },
+    {
+      "name": "R1. Mambalam Police station,chennai tamil nadu",
+      "latitude": 13.0350103,
+      "longitude": 80.229475,
+      "phone": "044-23452608/609"
+    },
+    {
+      "name": "R4. Soundarapandiyanar Police station,chennai tamil nadu",
+      "latitude": 13.0826802,
+      "longitude": 80.2707184,
+      "phone": "044-23452624/625"
+    },
+    {
+      "name": "angadi (Pondi bazaar) Police station,chennai tamil nadu",
+      "latitude": 13.0398891,
+      "longitude": 80.2368745,
+      "phone": ""
+    },
+    {
+      "name": "R8. Vadapalani Police station,chennai tamil nadu",
+      "latitude": 13.0495655,
+      "longitude": 80.2116956,
+      "phone": "044-23452635/634"
+    },
+    {
+      "name": "R5. Virugambakkam Police station,chennai tamil nadu",
+      "latitude": 13.0496952,
+      "longitude": 80.1992196,
+      "phone": "044-23452637/638"
+    },
+    {
+      "name": "R9. Valasaravakkam Police station,chennai tamil nadu",
+      "latitude": 13.0433281,
+      "longitude": 80.1761225,
+      "phone": "044-23452649"
+    },
+    {
+      "name": "R11. Royala nagar Police station,chennai tamil nadu",
+      "latitude": 13.0318896,
+      "longitude": 80.1786947,
+      "phone": "044-23452649(R9.No)"
+    },
+    {
+      "name": "R3. Ashok Nagar Police station,chennai tamil nadu",
+      "latitude": 13.0439646,
+      "longitude": 80.2173305,
+      "phone": "044-23452617/618"
+    },
+    {
+      "name": "R7. K.K. Nagar Police station,chennai tamil nadu",
+      "latitude": 13.0420011,
+      "longitude": 80.2063773,
+      "phone": "044-23452630/631"
+    },
+    {
+      "name": "R10. MGR Nagar Police station,chennai tamil nadu",
+      "latitude": 13.0311075,
+      "longitude": 80.2017321,
+      "phone": "044-23452560/561"
+    },
+    {
+      "name": "E3. Teynampet Police station,chennai tamil nadu",
+      "latitude": 13.0395894,
+      "longitude": 80.2451998,
+      "phone": "044-23452569/568"
+    },
+    {
+      "name": "R2. Kodambakkam Police station,chennai tamil nadu",
+      "latitude": 13.0512074,
+      "longitude": 80.2191968,
+      "phone": ""
+    }
+  ]
